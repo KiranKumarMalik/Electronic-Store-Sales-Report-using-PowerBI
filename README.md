@@ -5,7 +5,7 @@
 # Interactive Sales Data Visualization Dashboard
 
 
-![Dashboard pbi](https://github.com/user-attachments/assets/e90b7373-c36f-4c62-bed2-b81bb332a715)
+![Dashboard pbi](https://github.com/KiranKumarMalik/Electronic-Store-Sales-Report-using-PowerBI/blob/719d875ce31463e75741346c6256c1191b604e2a/img/es.png)
 
  
 <!-- # Table of Contents
